@@ -12,6 +12,8 @@ Data are stored using MongoDB.
 
 ![bluetetris](docs/screenshots/overview.gif)
 
+Hosted on Heroku here : https://bluetetris.herokuapp.com/
+
 ## Objectives
 
 Subjects: [red_tetris.fr.pdf](docs/red_tetris.fr.pdf) or [red_tetris.en.pdf](docs/red_tetris.en.pdf)
